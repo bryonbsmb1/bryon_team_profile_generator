@@ -8,9 +8,13 @@ Built out a Node.js command-line application that takes in information about emp
 
 # HTML and Video generated from the App
 
-Here is the link to my video demo of the App [Video](https://youtu.be/NX76Bdfg-7Y)
-
 !["](./Assets/ScreenShot.png)
+
+
+# Video generated from the App
+
+Click this link    [Video](https://youtu.be/NX76Bdfg-7Y)  for avideo demo of the App 
+
 
 
 
